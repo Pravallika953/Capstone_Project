@@ -1,0 +1,13 @@
+pages\ShoppingCartPage.class
+pages\ProductDetailsPage.class
+utility\ExcelUtils.class
+pages\HomePage.class
+steps\ShoppingCartSteps.class
+utility\Base.class
+steps\SearchFunctionality.class
+steps\RegistrationSteps.class
+pages\RegistrationPage.class
+pages\SearchFunctionalityPage.class
+steps\ProductDetailsSteps.class
+runner\TestRunner.class
+steps\HomePageSteps.class

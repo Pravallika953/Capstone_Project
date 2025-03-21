@@ -13,7 +13,6 @@ import utility.Base;
     glue = {"steps"}, 
     plugin = {
         "pretty",
-        "html:target/cucumber-reports-html.html",
         "json:target/cucumber-reports-json/Cucumber.json"
     }
 )
